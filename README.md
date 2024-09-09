@@ -1,11 +1,20 @@
 # Bharat-Intern-Internship
+A repository for the tasks given by Bharat Intern in Machine Learning Internship.
+
+TASK : 1
+
+House Price Prediction :
+
+"Machine Learning model to predict house prices using python , scikit learn , tensorflow ."
 
 TASK : 2
 
-Iris Flowers Classification :
+Movie Recommendation :
 
-"Predict the different species of flowers on the length of there petals and sepals only Jupyter notebook code."
+"To build a movie recommendation system using collaberative filtering and ML techniques in python."
 
-Dataset : https://drive.google.com/file/d/1BjuNlhtTIvaeOE_Cr_CoHNmHGxHZbzjq/view?usp=sharing
+TASK : 3
 
+Iris Classification :
 
+"Machine learning model for classifying iris flowers based on their features using python , scikit-learn and tensorflow."
